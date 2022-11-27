@@ -1,0 +1,8 @@
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\bin\Debug\DataLayer.dll
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\bin\Debug\DataLayer.pdb
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\bin\Debug\DataLayer.xml
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\obj\Debug\DataLayer.Resources.resources
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\obj\Debug\DataLayer.vbproj.GenerateResource.Cache
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\obj\Debug\DataLayer.dll
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\obj\Debug\DataLayer.xml
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\DataLayer\obj\Debug\DataLayer.pdb

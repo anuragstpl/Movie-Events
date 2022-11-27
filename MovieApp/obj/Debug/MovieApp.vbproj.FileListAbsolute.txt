@@ -1,0 +1,12 @@
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\bin\MovieApp.dll
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\bin\MovieApp.pdb
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\bin\MovieApp.xml
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\obj\Debug\MovieApp.Resources.resources
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\obj\Debug\MovieApp.vbproj.GenerateResource.Cache
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\obj\Debug\MovieApp.dll
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\obj\Debug\MovieApp.xml
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\bin\DataLayer.dll
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\bin\DataLayer.pdb
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\bin\DataLayer.xml
+E:\Student Jobs\VB.Net\Movie booking\Website\MovieApp\MovieApp\obj\Debug\MovieApp.vbprojResolveAssemblyReference.cache
